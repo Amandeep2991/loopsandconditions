@@ -6,7 +6,7 @@ public class postincrement {
 		int b=a++;
 		
 		System.out.println("Value of a: "+a);
-		System.out.println("Value of a: "+b);
+		System.out.println("Value of b: "+b);
 		
 		
 	
