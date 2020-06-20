@@ -22,7 +22,7 @@ public class parentsuper {
    		}
 	
 	public static void main(String[] args) {
-		parentsuper sp=new parentsuper();
+		//parentsuper sp=new parentsuper();
 		
 	}
 }
